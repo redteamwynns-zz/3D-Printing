@@ -21,7 +21,7 @@ The adjustment plates are designed to separate horizontally, allowing the operat
 # Triple Threat
 Haven't come up with a real name for this yet.
 The Triple Threat is a simple solution to an infuriating problem - organization of padlock shims, bypass tools, and picks which need to be accessed quickly.
-Padlock shims are an excellent tool which I find in exceedingly short supply - likely due to their tenancy to jump out of pockets as they snag on other tools. 
+Padlock shims are an excellent tool which I find in exceedingly short supply - likely due to their tendency to jump out of pockets as they snag on other tools. 
 The Triple Threat provides a means to carry shims in an organized fashion, as well as a pair of bogota picks and two bypass tools (Quickstik and 175 Bypass).
 As much as I love to support Sparrows, Core, SEREPick, etc, hopefully this tool can help others prevent loss of common tools while also provided a reliable means to access them when seconds count. 
 
